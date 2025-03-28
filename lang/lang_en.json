@@ -1,0 +1,7 @@
+{
+  "search_placeholder": "Search Excel Formula...",
+  "description": "Description",
+  "syntax": "Syntax",
+  "example": "Example",
+  "not_found": "No formula matched your search."
+}

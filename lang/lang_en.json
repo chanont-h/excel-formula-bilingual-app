@@ -3,5 +3,6 @@
   "description": "Description",
   "syntax": "Syntax",
   "example": "Example",
+  "tutorial": "Tutorial",
   "not_found": "No formula matched your search."
 }

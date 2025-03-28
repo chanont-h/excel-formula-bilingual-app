@@ -1,13 +1,4 @@
 
-# 📄 Excel Formula Bilingual Search App (JSON Version)
+# 📄 Excel Formula Bilingual Search App (v1.2.0)
 
-Streamlit app to search Excel formulas in English & Thai from JSON data.
-
-## 🚀 Run Locally
-```
-pip install -r requirements.txt
-streamlit run app.py
-```
-
-## 🌐 Deploy on Streamlit Cloud
-Add your OpenAI API key to `.streamlit/secrets.toml` (optional)
+Streamlit app to search, filter, bookmark and export Excel formulas in English.
